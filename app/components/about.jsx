@@ -18,7 +18,7 @@ var About = (props) => {
           </li>
           <li>
             <a href="http://openweathermap.org">Open Weather Mape</a> - I used open
-              weather map to search frot he weather data by the city name
+              weather map to search for the weather data by the city name
           </li>
         </ul>
       </p>
